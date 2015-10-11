@@ -10,3 +10,7 @@ commit each time.
 * How can you use the staging area to make sure you have one commit per logical change?
 You can compare the changes made between the workinfg directory, staging area
 and the last commits and make sure you make a commit by logical change.
+* What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are working in multiple features of the main project, for example
+when you make a complete redesign of it but you'd like to keep the original
+working. It also helps when you need to merge the changes.
