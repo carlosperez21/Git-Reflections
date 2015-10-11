@@ -7,3 +7,6 @@ contains the git metadata.
 It offers total flexibility and control over the changes you would like to
 commit each time.
 
+* How can you use the staging area to make sure you have one commit per logical change?
+You can compare the changes made between the workinfg directory, staging area
+and the last commits and make sure you make a commit by logical change.
