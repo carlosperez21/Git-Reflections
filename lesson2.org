@@ -14,3 +14,6 @@ and the last commits and make sure you make a commit by logical change.
 When you are working in multiple features of the main project, for example
 when you make a complete redesign of it but you'd like to keep the original
 working. It also helps when you need to merge the changes.
+* How do the diagrams help you visualize the branch structure?
+They allow me to clearly see how git organizes the commits and the branches,
+and which of them are accesible or not.
