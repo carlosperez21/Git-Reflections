@@ -21,3 +21,10 @@ and which of them are accesible or not.
 * What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is one tip that represents the changes of the two branches. This is
 the reason of the representation in the diagram.
+
+* What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Cons: Error-prone. Need to check and understanf¿d the additions on the file.
+Pros: Accomplishes the mission of spotting the error and letting people choose
+what to change. Flexibility.
+
+* 
