@@ -2,12 +2,12 @@
 * How did viewing a diff between two versions of a file help you see the bug that was introduced?
 It lets you spot the places where you changed something and check if the changes
 done are the cause of the bug. Sometimes they are as simple as a spelling
-mistake
+mistake.
 
 * How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 There are a lot of advantages. First of all, you have an efficient system that
 keeps your files and their history in the same place, so you don't have to worry
-about having multiple files for different versions. Second, it makes it a breeze
+about having multiple files for different versions. Secondly, it makes it a breeze
 to collaborate with others, even if they're working on the same thing at the
 same time. And third, it helps a lot in having a pretty nice workflow when
 you're writing something, not only code.
@@ -21,11 +21,9 @@ Because git was thinked to be used for programming where it is pretty common
 that a change affects multiple files at the same time.
 
 * How can you use the commands git log and git diff to view the history of files?
-To easily compare twi different commits.
+To easily compare two different commits.
 
 * How might using version control make you more confident to make changes that could break something?
 You know you can always go back to any previous commit and restore things
-exactly as they were at that moment.
-
-* 
+exactly as they were at that moment. 
 
