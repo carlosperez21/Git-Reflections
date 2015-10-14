@@ -4,3 +4,9 @@ Sureley the obvious answer is the moment you are involved in team
 collaboration. But there are also ther reasons like working in an open-source
 project, or simply wanting to show the world wha you're capable to do. WEll, and
 whenever you need to access your files from another computer ;)
+
+* Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branch: copies the state of the repo and creates an independent line of
+development locally
+Clone: Exact copy of a repo from a server like github or from a computer
+Fork: Exact copy of a repo only on Github.
